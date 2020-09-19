@@ -6,6 +6,6 @@ This project is called the Emoji Emotion Checker, where students download an and
 
 We created a desktop application using JavaFX that allows the admin to create/modify users data that is stored on AWS Database. We utilized HTTP RESTful operations to send and receive user data through JSON. Our role was to send to the database a timestamp specfic to a user and they would send the message at that time, and we would also have to be able to access the past responses of those students. Basically, responses would gathered through the mobile app, and transferred into the database which would then be queried and that JSON data would be retrieved by this desktop app. The data will be stored and can manipulated for display, namely by being exported into CSV format.
 
-![Project Poster](docs/project_poster.pdf)
+![Project Poster](docs/project_poster.jpg)
 
 ![Screenshot of View](docs/screenshot.JPG)
